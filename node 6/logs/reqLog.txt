@@ -1,0 +1,13 @@
+20231220	00:50::43	5a6230d3-d4f6-40a5-bccb-5fcfffdd82dd	/new-page.html	GET
+20231220	00:50::43	4f0d5a09-dbbc-402d-a4ad-0f7babc780f6	/css/style.css	GET
+20231220	00:50::43	ab4285f6-fe66-4eb7-a98e-e5f4763b70c6	/img/img1.jpg	GET
+20231220	00:50::43	1c91ad05-fac8-41c7-b27a-e8cdc4c60c61	/favicon.ico	GET
+20231220	00:51::24	b6e8a126-9301-446d-903f-dfab42869771	/new-page.html	GET
+20231220	00:51::45	52aa619a-fd5e-418a-ac47-9ef9b45acf79	/new-page.html	GET
+20231220	00:51::45	e58a86ba-6efd-4edb-b745-cd900b906f3e	/css/style.css	GET
+20231220	00:51::45	e573a6cd-aadb-43fa-8db9-9e88741feef8	/img/img1.jpg	GET
+20231220	00:51::53	7987544d-d5d0-4109-86f5-ef6f7b4fce8f	/	GET
+20231220	00:51::53	6b1e7fbb-3cca-49e9-a653-e505ed6b8d06	/css/style.css	GET
+20231221	15:28::17	5eca82a9-04b5-4fbd-bd2d-25386f678071	/	GET
+20231221	15:28::17	7e8c7193-d31d-4462-842c-f72532326233	/css/style.css	GET
+20231221	15:28::17	9c0cb5d7-7e15-4c3b-b4dd-57aee1a2bf63	/favicon.ico	GET
