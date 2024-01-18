@@ -1,0 +1,2 @@
+20231223	16:00::37	1d580f80-a232-4959-a6df-b62c4af13a48	Error: Not allowed by CORS
+20240118	14:56::04	d610c05c-3b2c-4557-ad5e-27d52b98d480	SyntaxError: Unexpected token '6', "#" is not valid JSON
